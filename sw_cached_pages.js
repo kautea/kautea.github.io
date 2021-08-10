@@ -1,9 +1,9 @@
 const cacheName = 'v2';
 
 const cacheAssets = [
-  'about.html',
   'index.html',
-  'index2.html',
+  'about.html',
+  'trimestre.html',
   '/css/style.css',
   '/js/main.js'
 ];
